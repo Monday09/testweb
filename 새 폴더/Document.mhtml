@@ -1,0 +1,61 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html
+Subject: Document
+Date: Thu, 12 Jan 2023 08:44:08 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--I4xREzLnDOtFCtYHYkSRYlkQ6LnzX3FBKTC8j6YrDX----"
+
+
+------MultipartBoundary--I4xREzLnDOtFCtYHYkSRYlkQ6LnzX3FBKTC8j6YrDX----
+Content-Type: text/html
+Content-ID: <frame-3227879228D41EA1E517A3972DCBCA62@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-573be37f-9509-4227-8dc2-02cb3b5df307@mhtml.blink" />
+    <title>Document</title>
+    <link rel=3D"stylesheet" href=3D"http://127.0.0.1:5500/ani.css">   =20
+</head>
+
+<body>
+   =20
+
+    <div style=3D"opacity: 0;"><h1>=EC=95=88=EB=85=95=ED=95=98=EC=84=B8=EC=
+=9A=94</h1></div>
+    <div style=3D"opacity: 0;"><h1>=EA=B0=90=EC=82=AC=ED=95=B4=EC=9A=94</h1=
+></div>
+    <div style=3D"opacity: 15;"><h1>=EC=9E=98=EC=9E=88=EC=96=B4=EC=9A=94</h=
+1></div>
+    <div style=3D"opacity: 0;"><h1>=EB=8B=A4=EC=8B=9C=EB=A7=8C=EB=82=98=EC=
+=9A=94</h1></div>
+
+    <!-- script -->
+   =20
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--I4xREzLnDOtFCtYHYkSRYlkQ6LnzX3FBKTC8j6YrDX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-573be37f-9509-4227-8dc2-02cb3b5df307@mhtml.blink
+
+@charset "utf-8";
+
+body { background-color: black; height: 5000px; font-family: nanumsquare; }
+
+div { margin-top: 1000px; color: white; text-align: center; opacity: 0; tra=
+nsition: all 0.5s ease 0s; }
+------MultipartBoundary--I4xREzLnDOtFCtYHYkSRYlkQ6LnzX3FBKTC8j6YrDX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/ani.css
+
+@charset "utf-8";
+
+.back { background-color: black; }
+------MultipartBoundary--I4xREzLnDOtFCtYHYkSRYlkQ6LnzX3FBKTC8j6YrDX------
